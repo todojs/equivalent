@@ -1,0 +1,28 @@
+{
+  "name": "equivalent",
+  "version": "0.1.0",
+  "description": "small and very robust deep comparison for EcmaScript 5.1 and 6 (Browser and Node support)",
+  "main": "equivalent.mjs",
+  "scripts": {
+    "test": "tests/equivalent.test.mjs"
+  },
+  "keywords": [
+    "equal",
+    "comparison",
+    "compare",
+    "equivalent",
+    "deep",
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "todojs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/todojs/equivalent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/todojs/equivalent/issues"
+  },
+  "homepage": "https://github.com/todojs/equivalent#readme"
+}
