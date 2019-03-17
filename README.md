@@ -4,7 +4,7 @@
 
 It's a simple function with less than 120 lines of code Javascript for **nodejs** and the **browser**, without dependencies, very quick and very robust.
  
-It **can compare** Arrays, Array Buffers, Arrow Functions, Booleans, Class, Date, Error, Functions, Maps, Numbers, Objects, Regexp, Sets, Strings, Symbols and Typed Arrays.
+It **can compare** Arrays, Array Buffers, Booleans, Class, Date, Error, Maps, Numbers, Objects, Regexp, Sets, Strings, Symbols and Typed Arrays.
 
 ## Basic use
 
